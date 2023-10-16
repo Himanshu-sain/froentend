@@ -1,0 +1,44 @@
+.main-content{
+    display: flex;
+
+}
+.b1{
+    background-color: aqua;
+    width: 40%;
+    height: 4rem;
+}
+.b2{
+    background-color:RED;
+    width: 60%;
+
+}
+.b3{
+    background-color: skyblue;
+    height: 20rem;
+}
+.inner-content{
+    display: flex;
+}
+.b4{
+    background-color: navy;
+    height: 15rem;
+    width: 50%;
+}
+.b5{
+    background-color: white;
+    height: 15rem;
+    width: 25%;
+}
+.b6{
+    background-color: aquamarine;
+    height: 15rem;
+    width: 25%;
+}
+.b7{
+    background-color: yellow;
+    height: 4rem;
+}
+.b8{
+    background-color: brown;
+    height: 7.5rem;
+}
